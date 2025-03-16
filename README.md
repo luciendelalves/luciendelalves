@@ -7,7 +7,7 @@ Sobre mim:
 - 💼 Experiência como fundador e CEO: Desenvolvimento de habilidades em gestão
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas 
 - 🎯 Objetivo: Contribuir com decisões estratégicas através da interpretação e visualização de dados
-
+---
 <br>
 
 Principais ferramentas:
@@ -31,6 +31,8 @@ Onde me encontrar:
     <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
   </a>
 </div>
+
+---
 
 <br>
 

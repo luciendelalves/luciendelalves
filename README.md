@@ -7,7 +7,7 @@ Sobre mim:
 - 💼 Experiência como fundador e CEO: Desenvolvimento de habilidades em gestão
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas 
 - 🎯 Objetivo: Contribuir com decisões estratégicas através da interpretação e visualização de dados
----
+
 <br>
 
 Principais ferramentas:

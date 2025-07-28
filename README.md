@@ -3,10 +3,10 @@
 
 Sobre mim:
 - 🔭 Atualmente trabalho como Agente de Negócios no Itaú 
-- 🌱 Aprendizado contínuo em análise de dados: Foco em SQL, Power BI (Dashboards e DAX), Python, ETL
-- 💼 Experiência como fundador e CEO: Desenvolvimento de habilidades em gestão
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas 
-- 🎯 Objetivo: Contribuir com decisões estratégicas através da interpretação e visualização de dados
+- 🌱 Em transição para a área de Cibersegurança, com foco em redes, Linux, análise de logs, fundamentos de SOC, SIEM e segurança defensiva  
+- 💼 Experiência como fundador e CEO, com forte desenvolvimento em gestão estratégica, tomada de decisão e resolução de problemas  
+- 📚 Graduando em Segurança da Informação  
+- 🎯 Objetivo: Atuar com infraestrutura e defesa cibernética, contribuindo para ambientes digitais mais seguros por meio da análise, prevenção e resposta a incidentes
 
 
 

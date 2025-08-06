@@ -1,5 +1,5 @@
 ## Olá! Sou o Luciendel👋
-### Profissional da área financeira | <br> Em transição para dados 🎲📊
+### Profissional da área financeira | <br> Em transição para Cibersegurança
 
 Sobre mim:
 - 🔭 Atualmente trabalho como Agente de Negócios no Itaú 

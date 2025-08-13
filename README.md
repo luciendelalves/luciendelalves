@@ -1,7 +1,6 @@
 ## Olá! Sou o Luciendel👋
 
 ### Profissional da área financeira | Em transição para Cibersegurança
-
 💼 Agente de Negócios no Itaú, migrando para Cibersegurança com foco em SOC, SIEM e segurança defensiva.
 
 🖥 Experiência em Linux, redes, análise de logs e fundamentos de segurança da informação.

@@ -1,12 +1,11 @@
 ## Olá! Sou o Luciendel👋
-### Profissional da área financeira | <br> Em transição para Cibersegurança
 
-Sobre mim:
-- 🔭 Atualmente trabalho como Agente de Negócios no Itaú 
-- 🌱 Em transição para a área de Cibersegurança, com foco em redes, Linux, análise de logs, fundamentos de SOC, SIEM e segurança defensiva  
-- 💼 Experiência como fundador e CEO, com forte desenvolvimento em gestão estratégica, tomada de decisão e resolução de problemas  
-- 📚 Graduando em Segurança da Informação  
-- 🎯 Objetivo: Atuar com infraestrutura e defesa cibernética, contribuindo para ambientes digitais mais seguros por meio da análise, prevenção e resposta a incidentes
+### Profissional da área financeira | Em transição para Cibersegurança
+💼 Agente de Negócios no Itaú, migrando para Cibersegurança com foco em SOC, SIEM e segurança defensiva.
+🖥 Experiência em Linux, redes, análise de logs e fundamentos de segurança da informação.
+📊 Histórico como fundador e CEO, com forte atuação em gestão estratégica e resolução de problemas.
+🎓 Graduando em Segurança da Informação.
+🎯 Objetivo: atuar em infraestrutura e defesa cibernética, prevenindo e respondendo a incidentes.
 
 
 

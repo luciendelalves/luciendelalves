@@ -1,6 +1,6 @@
 ##  Olá! Sou o Luciendel 👋
 
-### Profissional de Segurança da Informação | Cibersegurança 
+### Analista de Risco | Cybersecurity & Fraud Intelligence | GRC | Python | SQL 
 
 📌 Analista de risco com experiência em operações, risco e prevenção, atuando com monitoramento, investigação e tomada de decisão baseada em dados. <br>
 🔐 Estudante de Segurança da Informação, expandindo habilidades em SOC, SIEM, resposta a incidentes e hardening de sistemas. <br>

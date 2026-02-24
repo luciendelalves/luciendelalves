@@ -1,14 +1,30 @@
-# 👋 Olá! Eu sou o Luciendel
+# 👋 Luciendel Alves
 
-## Analista de Risco & PLD em iGaming | Prevenção à Fraude | Monitoramento Transacional | SQL & Data Analytics
+Data-driven Risk Analyst transitioning into Data Engineering.
 
-📌 **Analista de Risco** com experiência em ambientes de **iGaming**, atuando com prevenção à fraude, análise comportamental, investigação de transações e tomada de decisão orientada a dados.  
-🔐 **Estudante de Segurança da Informação**, com foco em **Cybersecurity, GRC, SOC, SIEM, resposta a incidentes e hardening de sistemas**, conectando segurança, conformidade e análise de risco.   
-🐧 Vivência prática com **Linux, redes, análise de logs e fundamentos de segurança**, sempre com mentalidade investigativa e orientada a evidências.  
-📚 Certificações em **segurança e conformidade**: NSE FCF, IC-SOC-380, IC-SEC-1780, LGPD (entre outras).
+Atuo no mercado de iGaming com prevenção à fraude, monitoramento transacional e análise de comportamento, utilizando SQL para extração, transformação e validação de dados.
 
----
+## 🚀 Foco atual
+- Data Engineering
+- Data Pipelines
+- Data Modeling
+- ETL/ELT
+- Data Quality
 
+## 🧠 Experiência prática
+- Análise de grandes volumes de dados
+- Identificação de padrões e anomalias
+- Cruzamento de bases e validação de integridade
+- Investigação orientada a dados
+
+## 🔧 Tech Stack
+- SQL
+- Python
+- Linux
+- Git
+- Fundamentos de Redes e Segurança
+
+Construindo soluções onde dados, risco e arquitetura se encontram.
 
 
 

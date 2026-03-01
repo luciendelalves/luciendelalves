@@ -1,31 +1,33 @@
-# 👋 Luciendel Alves
+# Luciendel Alves
 
-Data-driven Risk Analyst transitioning into Data Engineering.
+Analista de Risco e PLD em iGaming em transição para Engenharia de Dados.
 
-Atuo no mercado de iGaming com prevenção à fraude, monitoramento transacional e análise de comportamento, utilizando SQL para extração, transformação e validação de dados.
+Trabalho com prevenção à fraude, monitoramento transacional e análise de
+comportamento, usando SQL e Python no dia a dia para extrair, transformar
+e validar dados.
 
-## 🚀 Foco atual
-- Data Engineering
-- Data Pipelines
-- Data Modeling
-- ETL/ELT
-- Data Quality
+Atualmente construindo projetos de engenharia de dados com foco em
+pipelines, modelagem e qualidade de dados.
 
-## 🧠 Experiência prática
-- Análise de grandes volumes de dados
-- Identificação de padrões e anomalias
-- Cruzamento de bases e validação de integridade
-- Investigação orientada a dados
+---
 
-## 🔧 Tech Stack
-- SQL
-- Python
-- Linux
-- Git
-- Fundamentos de Redes e Segurança
+## Experiência prática
 
-Construindo soluções onde dados, risco e arquitetura se encontram.
+Análise de grandes volumes de dados transacionais, identificação de padrões
+e anomalias, cruzamento de bases, validação de integridade e investigação
+orientada a evidências.
 
+---
+
+## Tech Stack
+
+SQL · Python · Linux · Git · Docker · PostgreSQL · dbt · Airflow
+
+---
+
+## Foco atual
+
+Data Engineering · Pipelines · Modelagem de Dados · ETL/ELT · Data Quality
 
 
 

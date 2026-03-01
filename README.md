@@ -2,9 +2,9 @@
 
 Analista de Risco e PLD em iGaming em transição para Engenharia de Dados.
 
-Trabalho com prevenção à fraude, monitoramento transacional e análise de
-comportamento, usando SQL e Python no dia a dia para extrair, transformar
-e validar dados.
+Atuo com prevenção à fraude, monitoramento transacional e análise de
+comportamento, aplicando SQL e Python nos projetos pessoais para extrair,
+transformar e validar dados.
 
 Atualmente construindo projetos de engenharia de dados com foco em
 pipelines, modelagem e qualidade de dados.
